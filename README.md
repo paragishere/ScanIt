@@ -19,6 +19,6 @@ A lightweight and modular **Web Vulnerability Scanner** written in Python that d
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/webvulnscanner.git
+git clone https://github.com/paragishere/ScanIt.git
 cd ScanIt
 pip install -r requirements.txt
