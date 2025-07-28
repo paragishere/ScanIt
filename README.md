@@ -2,6 +2,16 @@
 
 A lightweight and modular **Web Vulnerability Scanner** written in Python that detects common web application flaws like SQL Injection, XSS, insecure headers, and exposed admin panels.
 
+
+# Developed By
+
+Parag Malvi &
+Pushpraj Singh Jhala
+
+Institute: IPS Academy
+
+Department: Cybersecurity
+
 ---
 
 ##  Features
