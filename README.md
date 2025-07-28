@@ -39,3 +39,9 @@ python -m venv venv                # Create virtual environment
 venv\Scripts\activate              # Activate the environment
 pip install -r requirements.txt
 
+```
+## Usage 
+```bash
+python scanner.py https://example.com
+
+
