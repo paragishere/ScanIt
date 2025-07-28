@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ## Usage 
 ```bash
 python scanner.py https://example.com
-
+```
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
